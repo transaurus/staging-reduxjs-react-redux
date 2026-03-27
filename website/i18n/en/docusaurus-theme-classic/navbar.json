@@ -1,0 +1,34 @@
+{
+  "title": {
+    "message": "React Redux",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Redux Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Getting Started": {
+    "message": "Getting Started",
+    "description": "Navbar item with label Getting Started"
+  },
+  "item.label.Tutorial": {
+    "message": "Tutorial",
+    "description": "Navbar item with label Tutorial"
+  },
+  "item.label.Using React Redux": {
+    "message": "Using React Redux",
+    "description": "Navbar item with label Using React Redux"
+  },
+  "item.label.API": {
+    "message": "API",
+    "description": "Navbar item with label API"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.Need help?": {
+    "message": "Need help?",
+    "description": "Navbar item with label Need help?"
+  }
+}
