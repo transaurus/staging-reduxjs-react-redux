@@ -1,0 +1,10 @@
+{
+  "sourceUrl": "https://github.com/reduxjs/react-redux",
+  "branch": "master",
+  "docusaurusRoot": "website",
+  "configFile": "website/docusaurus.config.js",
+  "translateCommand": "yarn docusaurus write-translations",
+  "buildCommand": "yarn build",
+  "buildOutput": "build",
+  "packageManager": "yarn"
+}
