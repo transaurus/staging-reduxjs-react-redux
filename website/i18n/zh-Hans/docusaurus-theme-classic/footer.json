@@ -1,0 +1,50 @@
+{
+  "link.title.Docs": {
+    "message": "Docs",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.More": {
+    "message": "More",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Introduction": {
+    "message": "Introduction",
+    "description": "The label of footer link with label=Introduction linking to introduction/getting-started"
+  },
+  "link.item.label.Using React Redux": {
+    "message": "Using React Redux",
+    "description": "The label of footer link with label=Using React Redux linking to using-react-redux/connect-mapstate"
+  },
+  "link.item.label.API Reference": {
+    "message": "API Reference",
+    "description": "The label of footer link with label=API Reference linking to api/hooks"
+  },
+  "link.item.label.Guides": {
+    "message": "Guides",
+    "description": "The label of footer link with label=Guides linking to troubleshooting"
+  },
+  "link.item.label.Stack Overflow": {
+    "message": "Stack Overflow",
+    "description": "The label of footer link with label=Stack Overflow linking to https://stackoverflow.com/questions/tagged/react-redux"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord linking to https://discord.gg/0ZcbPKXt5bZ6au5t"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/reduxjs/react-redux"
+  },
+  "copyright": {
+    "message": "Copyright (c) 2015-present Dan Abramov and the Redux documentation authors.",
+    "description": "The footer copyright"
+  },
+  "logo.alt": {
+    "message": "Redux Logo",
+    "description": "The alt text of footer logo"
+  }
+}

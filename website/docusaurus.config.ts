@@ -14,6 +14,10 @@ import type { Options as UmamiOptions } from '@dipakparmar/docusaurus-plugin-uma
 // site configuration options.
 
 const siteConfig: Config = {
+  i18n: {
+    defaultLocale: "en",
+    locales: ["en", "zh-Hans"],
+  },
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -40,7 +44,7 @@ const siteConfig: Config = {
     ],
   ],
   title: 'React Redux', // Title for your website.
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   tagline: 'Official React bindings for Redux',
   url: 'https://react-redux.js.org', // Your website URL
   baseUrl: '/',
